@@ -1,0 +1,14 @@
+Briefly describe one way how data travels on the internet.
+It travels using binary (0s and 1s) with ethernet WIRING, fiber optic cable LIGHT, and radio waves.
+
+What is an IP address? The DNS?
+
+IP address is the address of the user/server computer. It describes region down to placement. In transition to IPv6, there will be "enough options for every grain of sand".
+DNS is the web address our computers use to search for which IP address to retrieve information from.
+
+What is a cookie?
+Although the user does not see a cookie physically (unfortunately...as long as they're Peanut Butter), as the IP address sends information to the users computer, it also sends a cookie to be stored. This can save information including login info, search history, and can personalize sites to the user.
+
+
+List the the three basic parts of a URL
+First is the protocol which decides how our computer will comunicate with the host's server. The domain, is DNS. Domain name search. This is the name the computer uses to search for the IP of the server. Lastly, the path. This is the path in which the computer goes through to get to the current visual page. Beyond the home index, the path will equate to the relative path of the site's structure.
