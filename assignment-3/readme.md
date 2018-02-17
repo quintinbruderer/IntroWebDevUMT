@@ -12,10 +12,10 @@ Structure is opposite of course. This includes divs(?), body heading and paragra
 
 ### **Work cycle this week**
 
-Long story short. I found this up upon aiming to review students, so decided to chug it out instead. Although not too hard, it definetely was time consuming and... at *1:48 AM*, to hell with reviewing tonight.
-The information in the module was thorough, and with assistance of W3, I have been able to double check my work.
+Long story short. I found this from initially logging in to moodle late at night, so decided to chug it out instead. Although not **too** hard, it definetely was time consuming and... at *1:48 AM*, to hell with other assignmentt.
+The information in the module was thorough, and with assistance of W3 documentation, I am feeling more confident.
 
 ### Screenshot
-Due to switching screens, a screenshot will only provie so much. I have my browser preview up on another window.
+Due to switching screens, a screenshot will only provide so much. I have a browser preview up on another window.
 
 ![A3ScreenShot](./images/screenShotA3.png)
