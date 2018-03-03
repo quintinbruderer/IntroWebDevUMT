@@ -1,0 +1,98 @@
+Client: Justine Evans
+E-mail: justine.evans@umontana.edu
+Project: Web-Dev Course Questionnaire
+---
+
+// FOR CLIENT'S INDEX PAGE
+// Client wants a single form in three-parts. Dashes (-) indicate the input area, while asterisks (*) are the separate input types or options attached. Type within quotations (ie, "text") is client-suggested placeholder text.
+
+
+Form server-side script URL: http://www.example.com/register.php
+
+
+Fieldset 1: Contact Details
+  - Name:
+      * (Text Type) "First"
+      * (Text Type) "MI"
+      * (Text Type) "Last"
+
+  - E-mail:
+      * (Email Type, autofocused) "you@email.com"
+
+  - Date of Birth:
+      * (Date Type) "mm/dd/yyyy"
+
+  - Have you take a web design course before?
+      * (Radio Button) Yes
+      * (Radio Button) No
+
+
+
+Fieldset 2: Previous Experience
+  - What is your preferred browser?
+      Choose one:
+      * (Radio Button) Firefox
+      * (Radio Button, checked) Chrome
+      * (Radio Button) Internet Explorer
+      * (Radio Button) Safari
+      * (Radio Button) Opera
+      * (Radio Button) Microsoft Edge
+      * (Radio Button) Other
+
+  - What languages are you familiar with?
+      Choose one or more:
+      * (Checkbox) HTML
+      * (Checkbox) CSS
+      * (Checkbox) JavaScript
+      * (Checkbox) PHP
+      * (Checkbox) Ruby
+      * (Checkbox) Python
+      * (Checkbox) Other
+
+  - Introduce yourself!
+      “Hi! I'm a * web designer or developer.”
+      * (Dropdown Select) guppy
+      * (Dropdown Select) beginner
+      * (Dropdown Select, selected) novice
+      * (Dropdown Select) journeyman
+      * (Dropdown Select) expert
+      * (Dropdown Select) wizard
+
+      “Last year, I spent "##" months studying or working in this field.”
+      * (Number Type)
+          minimum value=0
+          maximum value=12
+
+      * (Textarea Type) "“I think my most difficult task will be..."
+
+
+
+Fieldset 3: Offerings and Availability
+// Client's courses are offered 5 times a calendar year. Individual "Times (PM)" and "Seats Available" need to included in a table:
+    > "Spring Semester"
+        M, W 12:00-2:00
+        12/60
+    > "Summer Session"
+        F 5:30-9:30
+        FULL
+    > "Autumn Semester"
+        M, W 12:00-2:00
+        FULL
+    > "Winter Session"
+        F 12:00-4:00
+        2/60
+    > "Special Session"
+        TBA
+        0/60
+
+// To complete the registration:
+  - Name:
+      * (Text Type)
+
+  - Password:
+      * (Password Type)
+
+  - "Yes! Sign me up for weekly e-mail alerts!"
+      * (Checkbox, checked)
+
+  * (Submit button needed)
