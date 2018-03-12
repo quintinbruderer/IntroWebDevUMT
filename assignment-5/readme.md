@@ -1,6 +1,7 @@
 # Assignment 5
 
 I will aim to keep this week's readme short and sweet.
+A friend sent me this cover earlier and loved the talent of the young girl.
 
 ### 1. Divs within Divs
   So the difference between a div element and a span element is that divs consolidate their storage in organized block style. span on the other end, does similar but uses inline style rather than block.
