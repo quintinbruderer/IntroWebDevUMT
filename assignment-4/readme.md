@@ -1,5 +1,5 @@
 ### ~~Will add Technical Report later~~
-[Return to Main](../)
+[Return to Main](https://github.com/quintinbruderer/IntroWebDevUMT)
 
 # Assignment 4: Forms and Tables
 
