@@ -1,0 +1,48 @@
+Client: J. P. Music-Lover
+E-mail:
+Project: His Favorite Song
+---
+
+// FOR CLIENT'S INDEX PAGE
+
+Page Requires:
+  - Song Art (the single or album cover)
+  - Song Track
+  - Music Video
+  - Lyrics
+
+
+// This is the styling client wants in the HEAD element:
+
+body {
+  text-align: center;
+  }
+.container {
+  width: 600px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid black;
+}
+.lyrics p, pre {
+  font-family: arial;
+  font-size: small;
+}
+.contact {
+  background-color: powderblue;
+}
+
+
+// About Area
+
+Copyright:
+  This webpage was produced for the class Introduction to Web Design & Development with the University of Montana, School of Media Arts.
+
+Animated Logo
+
+Address:
+  University of Montana
+  School of Media Arts, McGill Hall Rm 224
+  32 Campus Dr
+  Missoula, MT 59812
+
+Google Map
