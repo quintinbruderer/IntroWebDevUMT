@@ -36,5 +36,7 @@ footer>div {
   padding: 12px;
 }
 p {
-  padding: 5% 30%
+  padding: 5% 30%;
+  color: rgb(214, 212, 27);
+  font-size: 35px;
 }
