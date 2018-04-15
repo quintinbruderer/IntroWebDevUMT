@@ -11,4 +11,4 @@ Though duo to a [personal website](quintinbruderer.github.io/PortfolioWebsite) I
 
 In the design, I chose to use the big ol' 90s png, as well as the neon trees. With match to those, I added a couple accent bars in an overlay fashion, including purple, green, and yellow. All highly bright and saturated. 
 
-![screenshotA6](./images/screenshot)
+![screenshotA6](./images/screenshot.png)
