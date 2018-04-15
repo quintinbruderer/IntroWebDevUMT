@@ -1,0 +1,40 @@
+body {
+  background-color: black;
+}
+
+#love90s {
+  position: absolute;
+  right: 50px;
+
+}
+#trees {
+  max-width: 100%
+}
+.main {
+    background-color: rgb(143, 13, 170);
+  width: 40%;
+}
+footer>div {
+   width: 90%;
+   position: absolute;
+   right: 0;
+   z-index: -3
+}
+/* footer.greenbar */
+.greenbar {
+  background-color: rgb(39, 227, 2);
+  padding: 2px;
+
+}
+.purplebar {
+  background-color: rgb(143, 13, 170);
+  padding: 6px;
+
+}
+.yellowbar {
+  background-color: rgb(214, 212, 27);
+  padding: 12px;
+}
+p {
+  padding: 5% 30%
+}
