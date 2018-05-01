@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=Mitr:200,400,600');
+
+@font-face {
+  font-family: 'Orbitron';
+  src: url('../fonts/Orbitron/Orbitron-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Orbitron';
+  src: url('../fonts/Orbitron/Orbitron-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Orbitron';
+  src: url('../fonts/Orbitron/Orbitron-Medium.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Orbitron';
+  src: url('../fonts/Orbitron/Orbitron-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+body {
+  font-size: 140%;
+  background-color: black;
+  color: white;
+  padding: 1.25em;
+}
+
+p {
+  font-family:'Mitr', sans-serif;
+  font-weight: 200;
+  font-size: 0.8em;
+  line-height: 1em;
+}
+
+a {
+  font-family: 'Mitr', sans-serif;
+  color: rgb(27, 179, 213);
+  text-decoration: none;
+  padding: 0.5em;
+}
+a:visited {
+  color: rgb(101, 101, 101);
+}
+
+a:hover {
+  background-color: rgb(50, 50, 50);
+  color: rgb(49, 246, 246);
+}
+a:active {
+  background-color: rgb(70,70,70);
+  border-width: thin;
+  border-style: dotted;
+}
+h3 {
+  font-family: 'Orbitron', monospace;
+  font-weight: 300;
+  color: rgb(35, 226, 43);
+
+}
+
+.info {
+  font-family: 'Orbitron', monospace;
+  font-weight: normal;
+  color: rgb(223, 109, 215);
+  font-size: 0.75em;
+  line-height: 0.75em;
+}
+
+h1 {
+  font-family: 'Orbitron', monospace;
+  font-weight: 900;
+}
+
+.logo {
+  width: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.links{
+  text-align: center;
+}

@@ -1,0 +1,26 @@
+An excerpt from The “Asteroids” Game Manual
+For the Atari 2600 (Sears, 1979)
+
+Tele-Games' “Asteroids” Game Instructions
+Getting Started
+------------------------------
+1. COSMIC SPACE PATROL
+On a quiet serene evening the Cosmic Space Patrol sets out to the usual night cruise through the boulevards of space. This beat was always the same; calm, no action and no excitement. For some reason this night feels different. Shortly before 0200 hours some form of intergalactic material is sighted through the visual particle counter. The material is too large a mass to measure. It's drifting closer. Lookout, it's a giant asteroid boulder and it's headed straight for the Cosmic Spacecraft. The only chance for survival is to dodge the boulder or destroy it. Destroying it doesn't mean just breaking it up, it means vaporizing it. Small asteroid boulders are equally as fatal as large ones.
+
+Whew, the boulder just missed colliding with the Cosmic Spacecraft, but suddenly the Cosmic Space Patrol find themselves surrounded by thousands of the deadly asteroids. The Cosmic Space Patrol must act quickly to save their spacecraft and spare their lives. The spacecraft is equipped with photon torpedoes, hyperspace, shields, and flip control.
+x
+The Cosmic Space Patrol is highly trained to handle this situation. Could you do as good a job as the Cosmic Space Patrol 9 How would you protect yourself if you were caught in a deadly asteroid belt? This is your big chance to fly through the dimensions of space and lend against asteroid boulders. The longer you survive, the more space hazards you'll encounter.
+
+2. GAME PLAY
+The object of the game is to destroy as many asteroid boulders as possible and keep your ship in space as long as possible. Use your Joystick Controller to maneuver your ship through space and press the red controller (fire) button to shoot photon torpedoes at the asteroid boulders. When an asteroid is hit, it may just break up into smaller boulders, or it may be completely pulverized. In some game variations you'll face additional space hazards such as satellites and UFOs (Unidentified Flying Objects), both of which may be firing torpedoes back at you.
+
+3. OPERATING YOUR SPACESHIP
+Use your Joystick Controller with this Tele-Games' Cartridge. Be sure to plug the controller cables firmly into the jacks at the back of your Video Arcade(TM). Hold the controller with the red lire button to your upper left toward the television screen. Use the LEFT CONTROLLER jack for one-player games. See Page 4 of your owner's manual for further details.
+
+Use the Joystick Controller to aim the spaceship and to tire photon torpedoes at the asteroids. Move the Joystick right to rotate the ship clockwise; move it left to rotate the ship counterclockwise. Push the Joystick forward to thrust (propel) the ship through space. (The ship moves only in the direction it's pointed.)
+
+Pulling the Joystick down causes the ship to perform different functions such as hyperspace, shields, or flip (see Section 6, GAME VARIATIONS). After aiming the spaceship with your Joystick, press the fire button to shoot photon torpedoes at the asteroid boulders. Continue to press and release the fire button as fast as possible to quickly destroy all of the asteroids.
+
+If the game variation you are playing includes satellites and UFOs, use your Joystick to aim and press the fire button to shoot torpedoes at them just as you would for the asteroid boulders.
+------------------------------
+Retrieved: https://archive.org/details/Asteroids_1979_Sears
