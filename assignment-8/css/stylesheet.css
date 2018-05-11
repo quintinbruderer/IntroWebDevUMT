@@ -1,0 +1,46 @@
+body {
+background-color: #FDFDF1;
+
+}
+.banner {
+  right: 20px;
+}
+
+h3 {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 32px;
+  position: absolute;
+  padding: 20px;
+}
+.red {
+  color: #ED1701;
+}
+h1 {
+  font-family: "Arial", sans-serif;
+  font-style: italic;
+  background-color: #303F44;
+  font-size: 30px;
+  color: #FFFFFF;
+	width: 360px;
+  padding: 20px;
+  margin: 20px;
+}
+
+
+.topright {
+  right: 20px
+}
+
+.mail {
+	font-family: "Times New Roman", serif;
+	border: thin dashed #303F44;
+	position: absolute;
+  padding: 10px;
+  text-align: justify;
+	left: 470px;
+	top: 1480px;
+  background-color: #FDFDF1;
+	width: 430px;
+  height: 210px;
+  z-index: 6;
+}
