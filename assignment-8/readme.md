@@ -18,4 +18,4 @@ Styling as a full is very hard. I have learned fonts much better and I understan
 After reading the materials, I proceeded to get my assets together. I searched for a similar font, and found. I gave classes to each div and separated them into duo blocks through the page. I started to style and realized just how far I had to go. I did look at some repos for assistance, however I wanted tof igure it out myself. So, I will continue to try, however other finals are calling my name.
 
 
-![screenshot](./images/readme.md)
+![screenshot](./images/screenshot.png)
